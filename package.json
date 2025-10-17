@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@northwalker/vue-hotel-datepicker": "^2.0.5",
-    "axios": "^0.19.0",
+    "axios": "^0.30.2",
     "bootstrap": "^4.3.1",
     "core-js": "^2.6.5",
     "element-ui": "^2.11.1",
